@@ -1,1 +1,2 @@
 # Crime-Trend-Analysis-and-Visualization-project
+This project offers a structured method to identify and analyze crime patterns and trends. It provides visualizations of crime occurrences across different timeframes, such as year, month, day, and hour, as well as by crime category. Users can toggle between various crime types for specific months, with corresponding locations plotted on an interactive map. This tool aims to enhance public awareness by highlighting high-risk areas, empowering communities with valuable safety information.
